@@ -17,7 +17,7 @@
 - 📱 Social Media: 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sebastianalzate/)](https://www.https://www.linkedin.com/in/sebastianalzate/)
   [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://[https://www.Facebook.com/in/sebastianalzate/](https://www.facebook.com/sebastian.alzate.9275/?locale=es_LA))]([https://www.https://www.linkedin.com/in/sebastianalzate/](https://www.facebook.com/sebastian.alzate.9275/?locale=es_LA)) 
-  [![Instagram Badge](https://img.shields.io/badge/-sebastianalzate4_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+  [![Instagram Badge](https://img.shields.io/badge/-sebastianalzate4_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://https://www.instagram.com/sebastianalzate4/)](https://www.instagram.com/sebastianalzate4//)
 
 <h2> Tech Stack  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> </h2>
 <div style='display: flex'>
