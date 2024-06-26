@@ -11,7 +11,7 @@
 - 🎓 I majored in Industrial Engineering.
 - 🇪🇸 I studied iOS programming at <a href="https://acoding.academy/">AppleCodingAcademy<a>.
 - 📚 I'm currently learning SwiftData, Git and GitHub.
-- ✍🏻 In my free time, I pursue Graphic Design and Blog Writing as hobbies.
+- ✍🏻 I pursue Graphic Design and Blog Writing as hobbies.
 - 💬 I speak Spanish and English.
 - 📫 Contact me: <a href="mailto:sebastian.alzate.deavila4@gmail.com"><img alt="Gmail" title="Sebastian Alzate De Avila" src="https://img.shields.io/badge/-sebastian.alzate.deavila4@gmail.com-black?style=flat-roundedrectangle&logo=Gmail&logoColor=white"></a>
 - 📱 Social Media: 
